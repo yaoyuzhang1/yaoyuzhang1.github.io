@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/head.jpg" class="floatpic" style="width: 37%;">
+<img src="images/head.jpg" class="floatpic" style="width: 33%;">
 
 Here is **Yaoyu Zhang (张耀宇)**.<br>
 

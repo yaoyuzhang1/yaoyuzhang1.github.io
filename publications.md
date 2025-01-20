@@ -30,7 +30,7 @@ title: Publications
 - **Linear Frequency Principle** (Alphabetic order): Tao Luo*, Zheng Ma, Zhi-Qin John Xu, Yaoyu Zhang, "On the Exact Computation of Linear Frequency Principle Dynamics and Its Generalization," SIMODS to appear, arXiv:2010.08153 (2020).
 - **Overview**: Zhi-Qin John Xu*, Yaoyu Zhang, Tao Luo, "Overview Frequency Principle/Spectral Bias in Deep Learning," Communications on Applied Mathematics and Computation (2024): 1-38.
 
-### Deep Learning Theory
+### Other Works in Deep Learning Theory
 - Leyang Zhang, Yaoyu Zhang, Tao Luo, "Geometry of Critical Sets and Existence of Saddle Branches for Two-layer Neural Networks," arXiv:2405.17501 (2024).
 - Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, "Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing," NeurIPS 2024.
 - Zhiwei Bai, Jiajie Zhao, Yaoyu Zhang*, "Connectivity Shapes Implicit Regularization in Matrix Factorization Models for Matrix Completion," NeurIPS 2024.
