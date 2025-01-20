@@ -10,8 +10,6 @@ Here is **Yaoyu Zhang (张耀宇)**.<br>
 
 I am a Tenure-track Associate Professor at the Institute of Natural Sciences and School of Mathematical Sciences of Shanghai Jiao Tong University. I earned my Bachelor's degree in Physics (minor in mathematics) in 2012, and Ph.D. in Mathematics in 2016 from Shanghai Jiao Tong University adviced by David Cai and Douglas Zhou. From 2016 to 2020, I conducted postdoctoral research at New York University Abu Dhabi & Courant Institute, as well as the Institute for Advanced Study in Princeton. My research focuses on the theoretical foundation of deep learning, particularly the nonlinear training dynamics and condensation phenomenon of deep learning.
 
-Feel free to reach out to me at - zhyy.sjtu [at] sjtu.edu.cn
-
 <!--
  **<font color="#990000">Thank you!</font>**
  -->
