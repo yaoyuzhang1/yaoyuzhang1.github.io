@@ -26,9 +26,10 @@ I am a Tenure-track Associate Professor at the Institute of Natural Sciences and
 My research focuses on the theoretical foundation of deep learning. Since 2020, I have been particularly interested in analyzing the nonlinear training dynamics of neural networks, with a focus on the condensation phenomenon. We have made exciting progress in recent years, including identifying the dynamical regime of condensation, proving condensation at the initial training stage, discovering condensed critical points and manifolds (Embedding Principle), revealing condensation dynamics near the global minima, and quantifying the enhancement of sample efficiency through condensation (Optimistic Estimate). I am expecting to establish a unified theory of condensation in the coming years.
 
 ---
-
+<!--
 ## News and Updates
 
 - **June 2024**：Hello!
 
 <br>
+-->
