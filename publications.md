@@ -24,7 +24,7 @@ title: Publications
 1. Yaoyu Zhang, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu, "Linear Stability Hypothesis and Rank Stratification for Nonlinear Models," arXiv:2211.11623 (2022).
 2. Yaoyu Zhang, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu, "Optimistic Estimate Uncovers the Potential of Nonlinear Models," arXiv:2307.08921 (2023).
 3. Yaoyu Zhang, Leyang Zhang, Zhongwang Zhang, Zhiwei Bai, "Local Linear Recovery Guarantee of Deep Neural Networks at Overparameterization," arXiv:2406.18035 (2024).
-4. (Alphabetic order) Tao Luo, Leyang Zhang, Yaoyu Zhang, "Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks," arXiv:2309.00508 (2023).
+4. Tao Luo, Leyang Zhang, Yaoyu Zhang, "Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks," arXiv:2309.00508 (2023).
 
 #### A4. Global dynamics and implicit bias
 1. Leyang Zhang, Zhi-Qin John Xu, Tao Luo, Yaoyu Zhang, "Limitation of Characterizing Implicit Regularization by Data-independent Functions," Transactions on Machine Learning Research (2023).
