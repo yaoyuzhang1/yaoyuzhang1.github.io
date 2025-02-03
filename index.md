@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 <img src="images/head.jpg" class="floatpic" style="width: 33%;">
 
