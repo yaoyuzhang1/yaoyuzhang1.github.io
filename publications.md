@@ -26,12 +26,12 @@ title: Publications
 3. Yaoyu Zhang, Leyang Zhang, Zhongwang Zhang, Zhiwei Bai, "Local Linear Recovery Guarantee of Deep Neural Networks at Overparameterization," arXiv:2406.18035 (2024).
 4. (Alphabetic order) Tao Luo, Leyang Zhang, Yaoyu Zhang, "Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks," arXiv:2309.00508 (2023).
 
-### A4. Global dynamics and implicit bias
+#### A4. Global dynamics and implicit bias
 1. Leyang Zhang, Zhi-Qin John Xu, Tao Luo, Yaoyu Zhang, "Limitation of Characterizing Implicit Regularization by Data-independent Functions," Transactions on Machine Learning Research (2023).
 2. Zhiwei Bai, Jiajie Zhao, Yaoyu Zhang, "Connectivity Shapes Implicit Regularization in Matrix Factorization Models for Matrix Completion", NeurIPS 2024.
 3. Jiajie Zhao, Zhiwei Bai, Yaoyu Zhang, "Disentangle Sample Size and Initialization Effect on Perfect Generalization for Single-Neuron Target," arXiv:2405.13787 (2024).
 
-### A5. Condensation in language models
+#### A5. Condensation in language models
 1. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, "Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing," NeurIPS 2024.
 2. Zhiwei Wang, Yunji Wang, Zhongwang Zhang, Zhangchen Zhou, Hui Jin, Tianyang Hu, Jiacheng Sun, Zhenguo Li, Yaoyu Zhang, Zhi-Qin John Xu, "The Buffer Mechanism for Multi-Step Information Reasoning in Language Models", arXiv:2405.15302 (2024).
 3. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, "Complexity Control Facilitates Reasoning-Based Compositional Generalization in Transformers", arXiv:2501.08537 (2025).
@@ -47,6 +47,7 @@ title: Publications
 6. **Linear Frequency Principle**: Tao Luo, Zheng Ma, Zhi-Qin John Xu, Yaoyu Zhang, On the exact computation of linear frequency principle dynamics and its generalization, SIAM Journal on Mathematics of Data Science 4 (4), 1272-1292, 2022.
 7. **Minimal decay in frequency domain**: Tao Luo, Zheng Ma, Zhiwei Wang, Zhi-Qin John Xu, Yaoyu Zhang, "An Upper Limit of Decaying Rate with Respect to Frequency in Deep Neural Network," MSML 2022.
 8. **Overview**: Zhi-Qin John Xu, Yaoyu Zhang, Tao Luo, "Overview Frequency Principle/Spectral Bias in Deep Learning," Communications on Applied Mathematics and Computation (2024): 1-38.
+9. Zhangchen Zhou, Yaoyu Zhang, Zhi-Qin John Xu, "A rationale from frequency perspective for grokking in training neural network," arXiv:2405.17479 (2024).
 
 ### C. Deep Learning for Science
 - Zhiwei Wang, Yaoyu Zhang, Pengxiao Lin, Enhan Zhao, E. Weinan, Tianhan Zhang, Zhi-Qin John Xu, "Deep Mechanism Reduction (DeePMR) Method for Fuel Chemical Kinetics," Combustion and Flame 261 (2024): 113286.
@@ -54,7 +55,7 @@ title: Publications
 - Lulu Zhang, Zhi-Qin John Xu, Yaoyu Zhang, "Data-informed Deep Optimization," PLoS ONE 17 (6), e0270191, 2022.
 -  Jihong Wang, Zhi-Qin John Xu, Jiwei Zhang, Yaoyu Zhang, "Implicit Bias with Ritz-Galerkin Method in Understanding Deep Learning for Solving PDEs," CSIAM Trans. Appl. Math. 3(2), pp. 299-317, 2022.
 - Zhiwei Wang, Yaoyu Zhang, Yiguang Ju, Weinan E, Zhi-Qin John Xu, Tianhan Zhang, "A Deep Learning-based Model Reduction (DeePMR) Method for Simplifying Chemical Kinetics," arXiv:2201.02025 (2022).
-- Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, Zheng Ma, "MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs," Communications in Computational Physics (CiCP) (2022) to appear, arXiv:2107.03673 (2021).
+- Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, Zheng Ma, "MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs," Communications in Computational Physics 32(2) 299-335 2022.
 - Tianhan Zhang, Yaoyu Zhang, Weinan E, Yiguang Ju, "DLODE: A Deep Learning-based ODE Solver for Chemistry Kinetics," AIAA Scitech 2021 Forum, 1139.
 
 ### D. Computational Neuroscience
