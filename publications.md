@@ -9,7 +9,7 @@ title: Publications
 ### A. Condensation phenomenon of deep learning
 *Condensation phenomenon: Neurons in the same layer tends to align with one another during the training*
 
-<img src="images/works on condensation.png" class="floatpic" style="width: 100%;">
+<img src="images/condensation.png" class="floatpic" style="width: 100%;">
 
 #### A1. Regime of condensation—phase diagram series
 1. Tao Luo, Zhi-Qin John Xu, Zheng Ma, Yaoyu Zhang, "Phase Diagram for Two-layer ReLU Neural Networks at Infinite-Width Limit," Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021).
