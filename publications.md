@@ -12,8 +12,8 @@ title: Publications
 <img src="https://yaoyuzhang1.github.io/images/condensation.png" class="floatpic" style="width: 100%;">
 
 #### A1. Regime of condensation—phase diagram series
-1. Tao Luo, Zhi-Qin John Xu, Zheng Ma, Yaoyu Zhang, "Phase Diagram for Two-layer ReLU Neural Networks at Infinite-Width Limit," Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021).
-2. Hanxu Zhou, Qixuan Zhou, Zhenyuan Jin, Tao Luo, Yaoyu Zhang, Zhi-Qin John Xu, "Empirical Phase Diagram for Three-layer Neural Networks with Infinite Width,"  NeurIPS 2022.
+1. Tao Luo, Zhi-Qin John Xu, Zheng Ma, Yaoyu Zhang, "[Phase Diagram for Two-layer ReLU Neural Networks at Infinite-Width Limit](.\file\A1\Phase diagram for two-layer relu neural networks at infinite-width limit.pdf )," Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021).
+2. Hanxu Zhou, Qixuan Zhou, Zhenyuan Jin, Tao Luo, Yaoyu Zhang, Zhi-Qin John Xu, "[Empirical Phase Diagram for Three-layer Neural Networks with Infinite Width](.\file\A1\Empirical Phase Diagram for Three-layer Neural Networks with Infinite Width.pdf),"  NeurIPS 2022.
 
 #### A2. Loss landscape structure—embedding principle series
 1. Yaoyu Zhang, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu, "Embedding Principle of Loss Landscape of Deep Neural Networks," NeurIPS 2021 spotlight.
