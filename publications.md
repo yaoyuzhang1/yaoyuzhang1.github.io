@@ -1,5 +1,5 @@
 ---
-layout: page
+dlayout: page
 permalink: /publications/index.html
 title: Publications
 ---
@@ -34,7 +34,7 @@ title: Publications
 3. Jiajie Zhao, Zhiwei Bai, Yaoyu Zhang, ["Disentangle Sample Size and Initialization Effect on Perfect Generalization for Single-Neuron Target,"](https://yaoyuzhang1.github.io/file/A4/Disentangle%20Sample%20Size%20and%20Initialization%20Effect%20on%20Perfect%20Generalization%20for%20Single-Neuron%20Target.pdf) arXiv:2405.13787 (2024).
 
 #### A5. Condensation in language models
-1. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,"](https://yaoyuzhang1.github.io/file/A5/Initialization%20is%20Critical%20to%20Whether%20Transformers%20Fit%20Composite%20Functions%20by%20Inference%20or%20Memorizing%2C.pdf) NeurIPS 2024.
+1. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,"](https://yaoyuzhang1.github.io/file/A5/Initialization%20is%20Critical%20to%20Whether%20Transformers%20Fit%20Composite%20Functions%20by%20Inference%20or%20Memorizing.pdf) NeurIPS 2024.
 2. Zhiwei Wang, Yunji Wang, Zhongwang Zhang, Zhangchen Zhou, Hui Jin, Tianyang Hu, Jiacheng Sun, Zhenguo Li, Yaoyu Zhang, Zhi-Qin John Xu, ["The Buffer Mechanism for Multi-Step Information Reasoning in Language Models"](https://yaoyuzhang1.github.io/file/A5/The%20Buffer%20Mechanism%20for%20Multi-Step%20Information%20Reasoning%20in%20Language%20Models.pdf), arXiv:2405.15302 (2024).
 3. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Complexity Control Facilitates Reasoning-Based Compositional Generalization in Transformers"](https://yaoyuzhang1.github.io/file/A5/Complexity%20Control%20Facilitates%20Reasoning-Based%20Compositional%20Generalization%20in%20Transformers.pdf), arXiv:2501.08537 (2025).
 
@@ -52,13 +52,13 @@ title: Publications
 9. Zhangchen Zhou, Yaoyu Zhang, Zhi-Qin John Xu, ["A rationale from frequency perspective for grokking in training neural network,"](https://yaoyuzhang1.github.io/file/B/A%20rationale%20from%20frequency%20perspective%20for%20grokking%20in%20training%20neural%20network.pdf) arXiv:2405.17479 (2024).
 
 ### C. Deep Learning for Science
-- Zhiwei Wang, Yaoyu Zhang, Pengxiao Lin, Enhan Zhao, E. Weinan, Tianhan Zhang, Zhi-Qin John Xu, ["Deep Mechanism Reduction (DeePMR) Method for Fuel Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/Deep%20Mechanism%20Reduction%20%28DeePMR%29%20Method%20for%20Fuel%20Chemical%20Kinetics.pdf) Method for Fuel Chemical Kinetics.pdf) Combustion and Flame 261 (2024): 113286.
+- Zhiwei Wang, Yaoyu Zhang, Pengxiao Lin, Enhan Zhao, E. Weinan, Tianhan Zhang, Zhi-Qin John Xu, ["Deep Mechanism Reduction (DeePMR) Method for Fuel Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/Deep%20Mechanism%20Reduction%20%28DeePMR%29%20Method%20for%20Fuel%20Chemical%20Kinetics.pdf)  Combustion and Flame 261 (2024): 113286.
 - Tianhan Zhang, Yuxiao Yi, Yifan Xu, Zhi X. Chen, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, ["A Multi-scale Sampling Method for Accurate and Robust Deep Neural Network to Predict Combustion Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/A%20Multi-scale%20Sampling%20Method%20for%20Accurate%20and%20Robust%20Deep%20Neural%20Network%20to%20Predict%20Combustion%20Chemical%20Kinetics.pdf) Combustion and Flame, 245, 112319, 2022.
 - Lulu Zhang, Zhi-Qin John Xu, Yaoyu Zhang, ["Data-informed Deep Optimization,"](https://yaoyuzhang1.github.io/file/C/Data-informed%20Deep%20Optimization.pdf) PLoS ONE 17 (6), e0270191, 2022.
 -  Jihong Wang, Zhi-Qin John Xu, Jiwei Zhang, Yaoyu Zhang, ["Implicit Bias with Ritz-Galerkin Method in Understanding Deep Learning for Solving PDEs,"](https://yaoyuzhang1.github.io/file/C/Implicit%20Bias%20with%20Ritz-Galerkin%20Method%20in%20Understanding%20Deep%20Learning%20for%20Solving%20PDEs.pdf) CSIAM Trans. Appl. Math. 3(2), pp. 299-317, 2022.
-- Zhiwei Wang, Yaoyu Zhang, Yiguang Ju, Weinan E, Zhi-Qin John Xu, Tianhan Zhang, ["A Deep Learning-based Model Reduction (DeePMR) Method for Simplifying Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/Adeep%20learning-based%20model%20reduction%20%28DeePMR%29%20method%20for%20simplifying%20chemical%20kinetics.pdf) method for simplifying chemical kinetics.pdf) arXiv:2201.02025 (2022).
-- Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, Zheng Ma, ["MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs,"](https://yaoyuzhang1.github.io/file/C/MOD-Net%20%20A%20Machine%20Learning%20Approach%20via%20Model-Operator-Data%20Network%20for%20Solving%20PDEs.pdf) Communications in Computational Physics 32(2) 299-335 2022.
-- Tianhan Zhang, Yaoyu Zhang, Weinan E, Yiguang Ju, "DLODE: A Deep Learning-based ODE Solver for Chemistry Kinetics," method for simplifying chemical kinetics.pdf) AIAA Scitech 2021 Forum, 1139.
+- Zhiwei Wang, Yaoyu Zhang, Yiguang Ju, Weinan E, Zhi-Qin John Xu, Tianhan Zhang, ["A Deep Learning-based Model Reduction (DeePMR) Method for Simplifying Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/Adeep%20learning-based%20model%20reduction%20%28DeePMR%29%20method%20for%20simplifying%20chemical%20kinetics.pdf)  arXiv:2201.02025 (2022).
+- Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, Zheng Ma, ["MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs,"](https://yaoyuzhang1.github.io/file/C/MOD-Net%20A%20Machine%20Learning%20Approach%20via%20Model-Operator-Data%20Network%20for%20Solving%20PDEs.pdf) Communications in Computational Physics 32(2) 299-335 2022.
+- Tianhan Zhang, Yaoyu Zhang, Weinan E, Yiguang Ju, ["DLODE: A Deep Learning-based ODE Solver for Chemistry Kinetics,"](https://yaoyuzhang1.github.io/file/C/DLODE%20A%20Deep%20Learning-based%20ODE%20Solver%20for%20Chemistry%20Kinetics.pdf)  AIAA Scitech 2021 Forum, 1139.
 
 ### D. Computational Neuroscience
 - Jing Yan, Yunxuan Feng, Wei Dai, Yaoyu Zhang, ["State-dependent Filtering of the Ring Model,"](https://yaoyuzhang1.github.io/file/D/State-dependent%20Filtering%20of%20the%20Ring%20Model.pdf) arXiv:2408.01817 (2024). 
