@@ -11,9 +11,10 @@ title: Publications
 
 <img src="https://yaoyuzhang1.github.io/images/condensation.png" class="floatpic" style="width: 100%;">
 
-#### A1. Regime of condensation—phase diagram series
+#### A1. Condensation phenomenon and its dynamical regime
 1. Tao Luo, Zhi-Qin John Xu, Zheng Ma, Yaoyu Zhang, ["Phase Diagram for Two-layer ReLU Neural Networks at Infinite-Width Limit,"](https://yaoyuzhang1.github.io/file/A1/Phase%20diagram%20for%20two-layer%20relu%20neural%20networks%20at%20infinite-width%20limit.pdf) Journal of Machine Learning Research (JMLR) 22(71):1−47, (2021).
 2. Hanxu Zhou, Qixuan Zhou, Zhenyuan Jin, Tao Luo, Yaoyu Zhang, Zhi-Qin John Xu, ["Empirical Phase Diagram for Three-layer Neural Networks with Infinite Width,"](https://yaoyuzhang1.github.io/file/A1/Empirical%20Phase%20Diagram%20for%20Three-layer%20Neural%20Networks%20with%20Infinite%20Width.pdf)  NeurIPS 2022.
+3. Zhi-Qin John Xu, Yaoyu Zhang, Zhangchen Zhou, ["An overview of condensation phenomenon in deep learning,"](https://arxiv.org/abs/2504.09484) arXiv:2504.09484.
 
 #### A2. Loss landscape structure—embedding principle series
 1. Yaoyu Zhang, Zhongwang Zhang, Tao Luo, Zhi-Qin John Xu, ["Embedding Principle of Loss Landscape of Deep Neural Networks,"](https://yaoyuzhang1.github.io/file/A2/Embedding%20Principle%20of%20Loss%20Landscape%20of%20Deep%20Neural%20Networks.pdf) NeurIPS 2021 spotlight.
@@ -61,6 +62,7 @@ title: Publications
 - Tianhan Zhang, Yaoyu Zhang, Weinan E, Yiguang Ju, ["DLODE: A Deep Learning-based ODE Solver for Chemistry Kinetics,"](https://yaoyuzhang1.github.io/file/C/DLODE%20A%20Deep%20Learning-based%20ODE%20Solver%20for%20Chemistry%20Kinetics.pdf)  AIAA Scitech 2021 Forum, 1139.
 
 ### D. Computational Neuroscience
+- Kang You, Ziling Wei, Jing Yan, Boning Zhang, Qinghai Guo, Yaoyu Zhang, Zhezhi He, VISTREAM: Improving Computation Efficiency of Visual Perception Streaming via Law-of-Charge-Conservation Inspired Spiking Neural Network. CVPR 2025.
 - Jing Yan, Yunxuan Feng, Wei Dai, Yaoyu Zhang, ["State-dependent Filtering of the Ring Model,"](https://yaoyuzhang1.github.io/file/D/State-dependent%20Filtering%20of%20the%20Ring%20Model.pdf) arXiv:2408.01817 (2024). 
 - Yaoyu Zhang, Lai-Sang Young, ["DNN-Assisted Statistical Analysis of a Model of Local Cortical Circuits,"](https://yaoyuzhang1.github.io/file/D/DNN-Assisted%20Statistical%20Analysis%20of%20a%20Model%20of%20Local%20Cortical%20Circuits.pdf) Scientific Reports 10, 20139, 2020.
 - Yaoyu Zhang, Yanyang Xiao, Douglas Zhou, David Cai, ["Spike-Triggered Regression for Synaptic Connectivity Reconstruction in Neuronal Networks,"](https://yaoyuzhang1.github.io/file/D/Spike-Triggered%20Regression%20for%20Synaptic%20Connectivity%20Reconstruction%20in%20Neuronal%20Networks.pdf) Frontiers in Computational Neuroscience 11, 101, 2017.
