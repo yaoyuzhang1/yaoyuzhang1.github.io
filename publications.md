@@ -26,7 +26,7 @@ title: Publications
 #### A3. Generalization advantage—optimistic estimate series
 1. Yaoyu Zhang, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu, ["Linear Stability Hypothesis and Rank Stratification for Nonlinear Models,"](https://yaoyuzhang1.github.io/file/A3/Linear%20Stability%20Hypothesis%20and%20Rank%20Stratification%20for%20Nonlinear%20Models.pdf) arXiv:2211.11623 (2022).
 2. Yaoyu Zhang, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu, ["Optimistic Estimate Uncovers the Potential of Nonlinear Models,"](https://yaoyuzhang1.github.io/file/A3/Optimistic%20Estimate%20Uncovers%20the%20Potential%20of%20Nonlinear%20Models.pdf) arXiv:2307.08921 (2023).
-3. Yaoyu Zhang, Leyang Zhang, Zhongwang Zhang, Zhiwei Bai, ["Local Linear Recovery Guarantee of Deep Neural Networks at Overparameterization,"](https://yaoyuzhang1.github.io/file/A3/Local%20Linear%20Recovery%20Guarantee%20of%20Deep%20Neural%20Networks%20at%20Overparameterization.pdf) arXiv:2406.18035 (2024).
+3. Yaoyu Zhang, Leyang Zhang, Zhongwang Zhang, Zhiwei Bai, ["Local Linear Recovery Guarantee of Deep Neural Networks at Overparameterization,"](https://yaoyuzhang1.github.io/file/A3/Local%20Linear%20Recovery%20Guarantee%20of%20Deep%20Neural%20Networks%20at%20Overparameterization.pdf) Journal of Machine Learning Research 26(69):1−30, 2025.
 4. Tao Luo, Leyang Zhang, Yaoyu Zhang, ["Structure and Gradient Dynamics Near Global Minima of Two-layer Neural Networks,"](https://yaoyuzhang1.github.io/file/A3/Structure%20and%20Gradient%20Dynamics%20Near%20Global%20Minima%20of%20Two-layer%20Neural%20Networks.pdf) arXiv:2309.00508 (2023).
 
 #### A4. Global dynamics and implicit bias
