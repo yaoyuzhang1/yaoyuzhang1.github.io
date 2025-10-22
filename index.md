@@ -58,7 +58,7 @@ Session titles:
 
 #### Lecture Note
 
-- **深度学习现象导论（Introduction to Deep Learning Phenomena）**([Chinese version](https://yaoyuzhang1.github.io/file/Lectures/Intro_DL_Phenomena.pdf))
+- **深度学习现象导论（Introduction to Deep Learning Phenomena）**([Chinese version](https://yaoyuzhang1.github.io/file/Lectures/Intro_DL_Phenomena.pdf))([Git Repo](https://github.com/xuzhiqin1990/understanding_dl))
 
 ---
 <!--
