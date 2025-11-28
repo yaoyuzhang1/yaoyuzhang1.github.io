@@ -39,16 +39,16 @@ An overview of our research efforts and future directions in understanding the c
 
 The condensation phenomenon of Deep Neural Networks ([slides](https://mod.fau.eu/wp-content/uploads/FAUMoD_MLPDES25_slides_zhangY_29apr2025.pdf),[video](https://vp-cdn-balance.rrze.uni-erlangen.de/symlinks/bb5607d0-a8d3-41b1-b48e-4d06b1275b34.m4v))
 
-**[Towards a Mathematical Foundation of Deep Learning: From Phenomena to Theory.](https://mod.fau.eu/fau-mod-course-towards-a-mathematical-foundation-of-deep-learning-from-phenomena-to-theory/)** 
+**Towards a Mathematical Foundation of Deep Learning: From Phenomena to Theory.** ([web](https://mod.fau.eu/fau-mod-course-towards-a-mathematical-foundation-of-deep-learning-from-phenomena-to-theory/))
 
 FAU MoD Course, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany, May 2-8, 2025. 
 
 Session titles:
-1. **Mysteries of Deep Learning** ([slides](https://yaoyuzhang1.github.io/file/Lectures/I.Mysteries%20of%20deep%20learning.pdf),[video](https://vp-cdn-balance.rrze.uni-erlangen.de/symlinks/03a84c99-fe80-4d19-b240-a106c25de383.m4v))
-2. **Frequency Principle/Spectral Bias** ([slides](https://yaoyuzhang1.github.io/file/Lectures/II.Frequency%20principle.pdf),[video](https://vp-cdn-balance.rrze.uni-erlangen.de/symlinks/3f263f0f-064e-49b8-ab34-bb8f40ce8b5d.m4v))
-3. **Condensation Phenomenon** ([slides](https://yaoyuzhang1.github.io/file/Lectures/III.Condensation%20phenomenon.pdf),[video](https://vp-cdn-balance.rrze.uni-erlangen.de/symlinks/c2204f10-86de-444a-af2b-f5562e5fb0a4.m4v))
-4. **From Condensation to Loss Landscape Analysis** ([slides](https://yaoyuzhang1.github.io/file/IV.From%20condensation%20to%20loss%20landscape%20analysis.pdf),[video](https://vp-cdn-balance.rrze.uni-erlangen.de/symlinks/3a873a0f-40a8-4dfa-b8d5-10cc09913845.m4v))
-5. **From Condensation to Generalization Theory** ([slides](https://yaoyuzhang1.github.io/file/Lectures/V.From%20condensation%20to%20generalization%20theory.pdf),[video](https://vp-cdn-balance.rrze.uni-erlangen.de/symlinks/e634374b-b87a-4576-8a63-9c3c26980c1f.m4v))
+1. **Mysteries of Deep Learning** ([slides](https://yaoyuzhang1.github.io/file/Lectures/I.Mysteries%20of%20deep%20learning.pdf),[video](https://youtu.be/twDeoSX1IRk?si=bSj1a1LWxM4kgsuJ))
+2. **Frequency Principle/Spectral Bias** ([slides](https://yaoyuzhang1.github.io/file/Lectures/II.Frequency%20principle.pdf),[video](https://youtu.be/lviWVkXlbSE?si=U78KCM4TPWKFsV8I))
+3. **Condensation Phenomenon** ([slides](https://yaoyuzhang1.github.io/file/Lectures/III.Condensation%20phenomenon.pdf),[video](https://youtu.be/O6ozmtC-ggs?si=0B8pXHVhGuQKTQBU))
+4. **From Condensation to Loss Landscape Analysis** ([slides](https://yaoyuzhang1.github.io/file/Lectures/IV.From%20condensation%20to%20loss%20landscape%20analysis.pdf),[video](https://youtu.be/9NqWWw6n6fQ?si=hjhqRghDK_EuM9pG))
+5. **From Condensation to Generalization Theory** ([slides](https://yaoyuzhang1.github.io/file/Lectures/V.From%20condensation%20to%20generalization%20theory.pdf),[video](https://youtu.be/D3PRkF3zC7M?si=knUXC_kJfu-vstwV))
 
 #### Presentations
 - **The Condensation Phenomenon of Deep Neural Networks.** MaD Seminar, New York University, U.S.A., Feb. 13, 2025. ([slides](https://yaoyuzhang1.github.io/file/Lectures/condensation_courant_0213.pdf))
