@@ -23,7 +23,7 @@ title: Publications
 4. Zhiwei Bai, Tao Luo, Zhi-Qin John Xu, Yaoyu Zhang, ["Embedding Principle in Depth for the Loss Landscape Analysis of Deep Neural Networks,"](https://yaoyuzhang1.github.io/file/A2/Embedding%20Principle%20in%20Depth%20for%20the%20Loss%20Landscape%20Analysis%20of%20Deep%20neural%20networks.pdf) CSIAM Trans. Appl. Math., 5 (2024), pp. 350-389.
 5. Leyang Zhang, Yaoyu Zhang, Tao Luo, ["Geometry of Critical Sets and Existence of Saddle Branches for Two-layer Neural Networks,"](https://yaoyuzhang1.github.io/file/A2/Geometry%20of%20Critical%20Sets%20and%20Existence%20of%20Saddle%20branches%20for%20two%20-layer%20Neural%20networks.pdf) arXiv:2405.17501 (2024).
 6. Leyang Zhang, Yaoyu Zhang, Tao Luo, ["Uncovering Critical Sets of Deep Neural Networks via Sample-Independent Critical Lifting."](https://arxiv.org/pdf/2505.13582), arXiv:2505.13582 (2025).
-7. Jiahan Zhang, Yaoyu Zhang, Tao Luo, ["Embedding principle of homogeneous neural network for classification problem"](https://arxiv.org/abs/2505.12419), 	arXiv:2505.12419 (2025).
+7. Jiahan Zhang, Yaoyu Zhang, Tao Luo, ["Embedding principle of homogeneous neural network for classification problem"](https://yaoyuzhang1.github.io/file/A2/18686_Embedding_Principle_of_H.pdf), 	NeurIPS 2025.
 
 #### A3. Generalization advantage—optimistic estimate series
 1. Yaoyu Zhang, Zhongwang Zhang, Leyang Zhang, Zhiwei Bai, Tao Luo, Zhi-Qin John Xu, ["Linear Stability Hypothesis and Rank Stratification for Nonlinear Models,"](https://yaoyuzhang1.github.io/file/A3/Linear%20Stability%20Hypothesis%20and%20Rank%20Stratification%20for%20Nonlinear%20Models.pdf) arXiv:2211.11623 (2022).
