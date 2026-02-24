@@ -40,7 +40,7 @@ title: Publications
 #### A5. Condensation in language models
 1. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,"](https://yaoyuzhang1.github.io/file/A5/Initialization%20is%20Critical%20to%20Whether%20Transformers%20Fit%20Composite%20Functions%20by%20Inference%20or%20Memorizing.pdf) NeurIPS 2024.
 2. Zhiwei Wang, Yunji Wang, Zhongwang Zhang, Zhangchen Zhou, Hui Jin, Tianyang Hu, Jiacheng Sun, Zhenguo Li, Yaoyu Zhang, Zhi-Qin John Xu, ["The Buffer Mechanism for Multi-Step Information Reasoning in Language Models"](https://yaoyuzhang1.github.io/file/A5/The%20Buffer%20Mechanism%20for%20Multi-Step%20Information%20Reasoning%20in%20Language%20Models.pdf), arXiv:2405.15302 (2024).
-3. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Complexity Control Facilitates Reasoning-Based Compositional Generalization in Transformers"](https://yaoyuzhang1.github.io/file/A5/Complexity%20Control%20Facilitates%20Reasoning-Based%20Compositional%20Generalization%20in%20Transformers.pdf), arXiv:2501.08537 (2025).
+3. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Complexity Control Facilitates Reasoning-Based Compositional Generalization in Transformers"](https://yaoyuzhang1.github.io/file/E/Complexity_Control_Facilitates_Reasoning-Based_Compositional_Generalization_in_Transformers.pdf), Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (2025).
 4. Liangkai Hang, Junjie Yao,Zhiwei Bai, Tianyi Chen, Yang Chen, Rongjie Diao, Hezhou Li, Pengxiao Lin, Zhiwei Wang, Cheng Xu, Zhongwang Zhang, Zhangchen Zhou, Zhiyu Li, Zehao Lin, Kai Chen, Feiyu Xiong, Yaoyu Zhang, Weinan E, Hongkang Yang, Zhi-Qin John Xu, ["Scalable Complexity Control Facilitates Reasoning Ability of LLMs"](https://arxiv.org/pdf/2505.23013), arXiv:2505.23013 (2025).
 
 ### B. Frequency Principle of deep learning
@@ -56,7 +56,14 @@ title: Publications
 8. **Overview**: Zhi-Qin John Xu, Yaoyu Zhang, Tao Luo, ["Overview Frequency Principle/Spectral Bias in Deep Learning,"](https://yaoyuzhang1.github.io/file/B/Overview%20Frequency%20PrincipleSpectral%20Bias%20in%20Deep%20Learning.pdf) Communications on Applied Mathematics and Computation (2024): 1-38.
 9. Zhangchen Zhou, Yaoyu Zhang, Zhi-Qin John Xu, ["A rationale from frequency perspective for grokking in training neural network,"](https://yaoyuzhang1.github.io/file/B/A%20rationale%20from%20frequency%20perspective%20for%20grokking%20in%20training%20neural%20network.pdf) arXiv:2405.17479 (2024).
 
-### C. Deep Learning for Science
+### C. Other Topics in Deep Learning theory
+
+<!-- #### C1. Optimization -->
+- Zhiwei Bai, Zhangchen Zhou, Jiajie Zhao, Xiaolong Li, Zhiyu Li, Feiyu Xiong, Hongkang Yang, Yaoyu Zhang, Zhi-Qin John Xu, ["Adaptive Preconditioners Trigger Loss Spikes in Adam"](https://arxiv.org/abs/2506.04805), arXiv:2506.04805 (2025).
+- Zhiwei Wang, Yunji Wang, Zhongwang Zhang, Zhangchen Zhou, Hui Jin, Tianyang Hu, Jiacheng Sun, Zhenguo Li, Yaoyu Zhang, Zhi-Qin John Xu, ["Understanding the Language Model to Solve the Symbolic Multi-Step Reasoning Problem from the Perspective of Buffer Mechanism"](https://aclanthology.org/2025.findings-emnlp.893.pdf), EMNLP Findings (2025).
+
+
+### D. Deep Learning for Science
 - Junjie Yao, Yuxiao Yi, Liangkai Hang, Weinan E, Weizong Wang, Yaoyu Zhang, Tianhan Zhang, Zhi-Qin John Xu, ["Solving multiscale dynamical systems by deep learning."](https://www.sciencedirect.com/science/article/pii/S0010465525003042) Computer Physics Communications (2025):109802.
 - Zhiwei Wang, Yaoyu Zhang, Pengxiao Lin, Enhan Zhao, E. Weinan, Tianhan Zhang, Zhi-Qin John Xu, ["Deep Mechanism Reduction (DeePMR) Method for Fuel Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/Deep%20Mechanism%20Reduction%20%28DeePMR%29%20Method%20for%20Fuel%20Chemical%20Kinetics.pdf)  Combustion and Flame 261 (2024): 113286.
 - Tianhan Zhang, Yuxiao Yi, Yifan Xu, Zhi X. Chen, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, ["A Multi-scale Sampling Method for Accurate and Robust Deep Neural Network to Predict Combustion Chemical Kinetics,"](https://yaoyuzhang1.github.io/file/C/A%20Multi-scale%20Sampling%20Method%20for%20Accurate%20and%20Robust%20Deep%20Neural%20Network%20to%20Predict%20Combustion%20Chemical%20Kinetics.pdf) Combustion and Flame, 245, 112319, 2022.
@@ -66,7 +73,7 @@ title: Publications
 - Lulu Zhang, Tao Luo, Yaoyu Zhang, Weinan E, Zhi-Qin John Xu, Zheng Ma, ["MOD-Net: A Machine Learning Approach via Model-Operator-Data Network for Solving PDEs,"](https://yaoyuzhang1.github.io/file/C/MOD-Net%20A%20Machine%20Learning%20Approach%20via%20Model-Operator-Data%20Network%20for%20Solving%20PDEs.pdf) Communications in Computational Physics 32(2) 299-335 2022.
 - Tianhan Zhang, Yaoyu Zhang, Weinan E, Yiguang Ju, ["DLODE: A Deep Learning-based ODE Solver for Chemistry Kinetics,"](https://yaoyuzhang1.github.io/file/C/DLODE%20A%20Deep%20Learning-based%20ODE%20Solver%20for%20Chemistry%20Kinetics.pdf)  AIAA Scitech 2021 Forum, 1139.
 
-### D. Computational Neuroscience
+### E. Computational Neuroscience
 - Kang You, Ziling Wei, Jing Yan, Boning Zhang, Qinghai Guo, Yaoyu Zhang, Zhezhi He, VISTREAM: Improving Computation Efficiency of Visual Perception Streaming via Law-of-Charge-Conservation Inspired Spiking Neural Network. CVPR 2025.
 - Jing Yan, Yunxuan Feng, Wei Dai, Yaoyu Zhang, ["State-dependent Filtering of the Ring Model,"](https://yaoyuzhang1.github.io/file/D/State-dependent%20Filtering%20of%20the%20Ring%20Model.pdf) arXiv:2408.01817 (2024). 
 - Yaoyu Zhang, Lai-Sang Young, ["DNN-Assisted Statistical Analysis of a Model of Local Cortical Circuits,"](https://yaoyuzhang1.github.io/file/D/DNN-Assisted%20Statistical%20Analysis%20of%20a%20Model%20of%20Local%20Cortical%20Circuits.pdf) Scientific Reports 10, 20139, 2020.
