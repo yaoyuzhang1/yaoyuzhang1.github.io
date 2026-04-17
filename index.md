@@ -56,9 +56,9 @@ Session titles:
 - **Embedding Principle of Loss Landscape of Deep Neural Networks.** Online, 机器学习联合研讨计划, Oct. 16, 2021. ([slides](https://yaoyuzhang1.github.io/file/Lectures/E-Principle_slides.pdf), [video](https://www.bilibili.com/video/BV1x44y1x7Qg))
 - **Dynamics of Deep Neural Networks--A Fourier Analysis Perspective.** Institute for Advanced Study, Princeton, Oct. 4, 2019.([slides](https://yaoyuzhang1.github.io/file/Lectures/dynamics%20of%20DNN.pdf), [video](https://www.ias.edu/video/postdoc/2019/1004-YaoyuZhang))
 
-#### Lecture Note
+#### Textbook
 
-- **深度学习现象导论（Introduction to Deep Learning Phenomena）**([Chinese version](https://yaoyuzhang1.github.io/file/Lectures/Intro_DL_Phenomena.pdf))([Git Repo](https://github.com/xuzhiqin1990/understanding_dl))
+- **深度学习现象导论（Introduction to Deep Learning Phenomena）**([Chinese version](https://yaoyuzhang1.github.io/file/Lectures/Intro_DL_Phenomena.pdf))([Git Repo](https://github.com/xuzhiqin1990/understanding_dl))([Douban](https://book.douban.com/subject/38376760/))
 
 ---
 <!--
