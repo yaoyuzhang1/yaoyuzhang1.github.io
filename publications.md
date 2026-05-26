@@ -35,7 +35,8 @@ title: Publications
 1. Leyang Zhang, Zhi-Qin John Xu, Tao Luo, Yaoyu Zhang, ["Limitation of Characterizing Implicit Regularization by Data-independent Functions,"](https://yaoyuzhang1.github.io/file/A4/Limitation%20of%20Characterizing%20Implicit%20Regularization%20by%20Data-independent%20Functions.pdf) Transactions on Machine Learning Research (2023).
 2. Zhiwei Bai, Jiajie Zhao, Yaoyu Zhang, ["Connectivity Shapes Implicit Regularization in Matrix Factorization Models for Matrix Completion"](https://yaoyuzhang1.github.io/file/A4/Connectivity%20Shapes%20Implicit%20Regularization%20in%20Matrix%20Factorization%20Models%20for%20Matrix%20Completion.pdf), NeurIPS 2024.
 3. Jiajie Zhao, Zhiwei Bai, Yaoyu Zhang, ["Disentangle Sample Size and Initialization Effect on Perfect Generalization for Single-Neuron Target,"](https://yaoyuzhang1.github.io/file/A4/Disentangle%20Sample%20Size%20and%20Initialization%20Effect%20on%20Perfect%20Generalization%20for%20Single-Neuron%20Target.pdf) arXiv:2405.13787 (2024).
-4. Jiajie Zhao, Yaoyu Zhang, Tao Luo, ["Architecture Induces Structural Invariant Manifolds of Neural Network Training Dynamics"](https://yaoyuzhang1.github.io/file/A4/Architecture%20Induces%20Structural%20Invariant%20Manifolds%20of%20Neural%20Network%20Training%20Dynamics.pdf), Mathematical Models and Methods in Applied Sciences 0 0:0, 1-45, 2026.
+4. Jiajie Zhao, Yaoyu Zhang, Tao Luo, ["Architecture Induces Structural Invariant Manifolds of Neural Network Training Dynamics"](https://yaoyuzhang1.github.io/file/A4/Architecture%20Induces%20Structural%20Invariant%20Manifolds%20of%20Neural%20Network%20Training%20Dynamics.pdf), Mathematical Models and Methods in Applied Sciences 36(08):1831-1875, 2026.
+5. Jiajie Zhao, Jianxing Wang, Junjie Yang, Zhiwei Bai, Yaoyu Zhang, ["Gradient Flow Dynamics and Implicit Bias of Diagonal Linear Networks under Infinitesimal Initialization"](https://yaoyuzhang1.github.io/file/A4/14474_Gradient_Flow_Dynamics_a.pdf), ICML 2026.
 
 #### A5. Condensation in language models
 1. Zhongwang Zhang, Pengxiao Lin, Zhiwei Wang, Yaoyu Zhang, Zhi-Qin John Xu, ["Initialization is Critical to Whether Transformers Fit Composite Functions by Inference or Memorizing,"](https://yaoyuzhang1.github.io/file/A5/Initialization%20is%20Critical%20to%20Whether%20Transformers%20Fit%20Composite%20Functions%20by%20Inference%20or%20Memorizing.pdf) NeurIPS 2024.
@@ -59,8 +60,9 @@ title: Publications
 ### C. Other Topics in Deep Learning theory
 
 <!-- #### C1. Optimization -->
-- Zhiwei Bai, Zhangchen Zhou, Jiajie Zhao, Xiaolong Li, Zhiyu Li, Feiyu Xiong, Hongkang Yang, Yaoyu Zhang, Zhi-Qin John Xu, ["Adaptive Preconditioners Trigger Loss Spikes in Adam"](https://arxiv.org/abs/2506.04805), arXiv:2506.04805 (2025).
+- Zhiwei Bai, Zhangchen Zhou, Jiajie Zhao, Xiaolong Li, Zhiyu Li, Feiyu Xiong, Hongkang Yang, Yaoyu Zhang, Zhi-Qin John Xu, ["Adaptive Preconditioners Trigger Loss Spikes in Adam"](https://arxiv.org/abs/2506.04805), ICML 2026.
 - Zhiwei Wang, Yunji Wang, Zhongwang Zhang, Zhangchen Zhou, Hui Jin, Tianyang Hu, Jiacheng Sun, Zhenguo Li, Yaoyu Zhang, Zhi-Qin John Xu, ["Understanding the Language Model to Solve the Symbolic Multi-Step Reasoning Problem from the Perspective of Buffer Mechanism"](https://aclanthology.org/2025.findings-emnlp.893.pdf), EMNLP Findings (2025).
+- Zhiwei Bai, Jiajie Zhao, Zhangchen Zhou, Zhi-Qin John Xu, Yaoyu Zhang, ["Towards Understanding Adam Convergence on Highly Degenerate Polynomials"](https://yaoyuzhang1.github.io/file/E/Towards%20Understanding%20Adam%20Convergence%20on%20Highly%20Degenerate%20Polynomials.pdf), ICML 2026 Spotlight.
 
 
 ### D. Deep Learning for Science
