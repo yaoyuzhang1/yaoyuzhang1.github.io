@@ -72,8 +72,8 @@
   grid-template-columns: minmax(0, 1.25fr) minmax(15rem, 0.75fr);
   column-gap: 4.5rem;
   align-items: end;
-  margin-bottom: 3.4rem;
-  padding: 3.5rem 0 2.8rem;
+  margin-bottom: 2.6rem;
+  padding: 2.4rem 0 2.2rem;
   border-bottom: 1px solid var(--blog-line);
 }
 
@@ -85,11 +85,11 @@
   margin: 0;
   color: var(--blog-ink);
   font-family: var(--blog-serif);
-  font-size: 4.4rem;
-  font-size: clamp(3.2rem, 7vw, 6.2rem);
+  font-size: 3.2rem;
+  font-size: clamp(2.5rem, 4.5vw, 3.8rem);
   font-weight: 400;
-  letter-spacing: -0.055em;
-  line-height: 0.98;
+  letter-spacing: -0.04em;
+  line-height: 1.08;
 }
 
 .blog-index__hero h1 em {
@@ -117,7 +117,7 @@
   box-sizing: border-box;
   display: flex;
   flex: 1 1 17rem;
-  min-height: 22rem;
+  min-height: 19.5rem;
   overflow: hidden;
   background: rgba(255, 253, 248, 0.78);
   border: 1px solid var(--blog-line);
@@ -156,7 +156,7 @@
 .blog-card--lead {
   position: relative;
   flex-basis: 100%;
-  min-height: 25rem;
+  min-height: 21rem;
   background:
     radial-gradient(circle at 88% 20%, rgba(255, 255, 255, 0.13), transparent 16rem),
     var(--blog-ink);
@@ -180,7 +180,7 @@
 .blog-card--lead > a:hover {
   position: relative;
   z-index: 1;
-  padding: 3rem;
+  padding: 2.5rem;
   color: #fffdf8;
 }
 
@@ -192,7 +192,7 @@
 .blog-card__meta {
   display: flex;
   min-height: 1.6rem;
-  margin-bottom: 2.7rem;
+  margin-bottom: 2.1rem;
   align-items: center;
   gap: 0.65rem;
   color: var(--blog-accent);
@@ -216,8 +216,8 @@
   margin: 0 0 1.25rem;
   color: inherit;
   font-family: var(--blog-serif);
-  font-size: 2rem;
-  font-size: clamp(1.75rem, 3vw, 2.45rem);
+  font-size: 1.75rem;
+  font-size: clamp(1.55rem, 2.4vw, 2rem);
   font-weight: 400;
   letter-spacing: -0.035em;
   line-height: 1.25;
@@ -225,9 +225,9 @@
 
 .blog-card--lead h2,
 .article-wrap .blog-card--lead h2 {
-  font-size: 3rem;
-  font-size: clamp(2.55rem, 6vw, 4.6rem);
-  line-height: 1.08;
+  font-size: 2.6rem;
+  font-size: clamp(2.2rem, 4vw, 3.25rem);
+  line-height: 1.12;
 }
 
 .blog-card h2 em {
@@ -293,8 +293,8 @@
 .essay__hero {
   position: relative;
   overflow: hidden;
-  margin-bottom: 4.5rem;
-  padding: 3rem 3.4rem 3.6rem;
+  margin-bottom: 4rem;
+  padding: 2.6rem 3rem 3.1rem;
   color: #fffdf8;
   background:
     radial-gradient(circle at 90% 8%, rgba(229, 189, 145, 0.2), transparent 18rem),
@@ -319,7 +319,7 @@
   position: relative;
   z-index: 1;
   display: inline-flex;
-  margin-bottom: 4.5rem;
+  margin-bottom: 3.25rem;
   align-items: center;
   gap: 0.55rem;
   color: rgba(255, 253, 248, 0.72);
@@ -349,20 +349,20 @@
   margin: 0;
   color: #fffdf8;
   font-family: var(--blog-serif);
-  font-size: 4.5rem;
-  font-size: clamp(3.8rem, 9vw, 7.5rem);
+  font-size: 3.7rem;
+  font-size: clamp(2.9rem, 6.5vw, 5.2rem);
   font-weight: 400;
-  letter-spacing: -0.06em;
-  line-height: 0.98;
+  letter-spacing: -0.045em;
+  line-height: 1.04;
 }
 
 .essay__display-title {
   position: relative;
   z-index: 1;
-  margin: 0.7rem 0 3.4rem;
+  margin: 0.65rem 0 2.8rem;
   color: #e5bd91;
   font-family: var(--blog-serif);
-  font-size: 1.65rem;
+  font-size: 1.4rem;
   font-weight: 400;
   letter-spacing: 0.04em;
   text-indent: 0;
@@ -384,7 +384,8 @@
 }
 
 .essay > p,
-.essay > h2 {
+.essay > h2,
+.essay > blockquote {
   max-width: 720px;
   margin-right: auto;
   margin-left: auto;
@@ -407,6 +408,27 @@
   color: var(--blog-ink);
   font-size: 1.15rem;
   line-height: 2.05;
+}
+
+.essay > blockquote {
+  box-sizing: border-box;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  padding: 1.25rem 1.5rem;
+  color: var(--blog-ink);
+  background: rgba(184, 116, 60, 0.07);
+  border-left: 3px solid var(--blog-accent);
+}
+
+.essay > blockquote p,
+.essay > blockquote p + p {
+  margin: 0;
+  color: inherit;
+  font-family: var(--blog-serif);
+  font-size: 1rem;
+  font-style: normal;
+  line-height: 1.9;
+  text-indent: 0;
 }
 
 .essay__lead::first-letter {

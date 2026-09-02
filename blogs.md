@@ -10,7 +10,7 @@ body_class: "blog-surface blog-index-page"
 <section class="blog-index" aria-labelledby="blog-index-title">
   <header class="blog-index__hero">
     <p class="blog-eyebrow"><span aria-hidden="true"></span> Essays &amp; Notes</p>
-    <h1 id="blog-index-title">在问题里，<br><em>慢慢走深。</em></h1>
+    <h1 id="blog-index-title">文章与思考</h1>
     <p class="blog-index__intro">记录关于科学、人工智能与人的长期思考。不是结论的陈列，而是理解如何生长的痕迹。</p>
   </header>
 
