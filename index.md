@@ -8,20 +8,18 @@ body_class: "site-surface home-surface"
 <div class="home-page" markdown="1">
 
 <section class="home-hero" aria-labelledby="home-title">
-  <div class="home-hero__copy">
-    <p class="home-eyebrow">About Me</p>
-    <h1 id="home-title">Yaoyu Zhang <span>张耀宇</span></h1>
-    <p class="home-hero__bio">I am a Tenure-track Associate Professor at the Institute of Natural Sciences and School of Mathematical Sciences of Shanghai Jiao Tong University. I earned my Bachelor's degree in Physics (minor in mathematics) in 2012, and Ph.D. in Mathematics in 2016 from Shanghai Jiao Tong University adviced by David Cai and Douglas Zhou. From 2016 to 2020, I conducted postdoctoral research at New York University Abu Dhabi &amp; Courant Institute, as well as the Institute for Advanced Study in Princeton. My research focuses on the theoretical foundation of deep learning, particularly the nonlinear training dynamics and condensation phenomenon of deep learning.</p>
-    <nav class="home-actions" aria-label="Profile links">
-      <a href="mailto:zhyy.sjtu@sjtu.edu.cn">Email</a>
-      <a href="{{ '/file/CV.pdf' | relative_url }}">My CV</a>
-      <a href="https://scholar.google.com/citations?hl=en&amp;user=ZSZ0TkIAAAAJ">Google Scholar</a>
-      <a href="https://github.com/yaoyuzhang1">Github</a>
-    </nav>
-  </div>
+  <p class="home-eyebrow">About Me</p>
+  <h1 id="home-title">Yaoyu Zhang <span>张耀宇</span></h1>
   <figure class="home-portrait">
     <img src="{{ '/images/head.jpg' | relative_url }}" width="295" height="413" alt="Portrait of Yaoyu Zhang">
   </figure>
+  <p class="home-hero__bio">I am a Tenure-track Associate Professor at the Institute of Natural Sciences and School of Mathematical Sciences of Shanghai Jiao Tong University. I earned my Bachelor's degree in Physics (minor in mathematics) in 2012, and Ph.D. in Mathematics in 2016 from Shanghai Jiao Tong University adviced by David Cai and Douglas Zhou. From 2016 to 2020, I conducted postdoctoral research at New York University Abu Dhabi &amp; Courant Institute, as well as the Institute for Advanced Study in Princeton. My research focuses on the theoretical foundation of deep learning, particularly the nonlinear training dynamics and condensation phenomenon of deep learning.</p>
+  <nav class="home-actions" aria-label="Profile links">
+    <a href="mailto:zhyy.sjtu@sjtu.edu.cn">Email</a>
+    <a href="{{ '/file/CV.pdf' | relative_url }}">My CV</a>
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=ZSZ0TkIAAAAJ">Google Scholar</a>
+    <a href="https://github.com/yaoyuzhang1">Github</a>
+  </nav>
 </section>
 
 <section class="home-section home-research" aria-labelledby="research-title">
