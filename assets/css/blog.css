@@ -549,6 +549,18 @@
     margin-bottom: 3rem;
   }
 
+  .blog-surface #main {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .blog-surface .article-wrap {
+    box-sizing: border-box;
+    width: 100%;
+    padding-right: clamp(1.25rem, 6vw, 1.75rem);
+    padding-left: clamp(1.25rem, 6vw, 1.75rem);
+  }
+
   .blog-index {
     padding-top: 0.25rem;
   }
@@ -721,6 +733,11 @@
 }
 
 @media (max-width: 380px) {
+  .blog-surface .article-wrap {
+    padding-right: 1.125rem;
+    padding-left: 1.125rem;
+  }
+
   .blog-card > a,
   .blog-card--lead > a,
   .blog-card--lead > a:visited {

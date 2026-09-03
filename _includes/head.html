@@ -46,7 +46,7 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
-{% if page.blog_style %}<link rel="stylesheet" href="/assets/css/blog.css">{% endif %}
+{% if page.blog_style %}<link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">{% endif %}
 
 <!--[if (lt IE 9) & (!IEMobile)]>
 <link rel="stylesheet" href="/assets/css/ie.css">
