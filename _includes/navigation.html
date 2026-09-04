@@ -7,7 +7,13 @@
 		<nav aria-label="Primary" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
 		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+            {% assign navigation_current = false %}
+            {% if url == link.url %}
+              {% assign navigation_current = true %}
+            {% elsif link.url != '/' and url contains link.url %}
+              {% assign navigation_current = true %}
+            {% endif %}
+            <li><a href="{{ site.url }}{{ link.url }}"{% if navigation_current %} class="top-navigation-current" aria-current="page"{% endif %}>{{ link.title }}</a></li>
 		        {% endfor %}
 		    </ul>
 		</nav>

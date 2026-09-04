@@ -4,7 +4,7 @@ permalink: /blogs/supercortex.html
 title: 大模型如何成为Supercortex
 description: 大模型如何把文明尺度的能力带到个体手中，并扩展每个人的可能性空间。
 blog_style: true
-body_class: "blog-surface essay-page-shell"
+body_class: "site-surface academic-surface blog-surface essay-page-shell"
 ---
 
 <div class="essay" markdown="1">

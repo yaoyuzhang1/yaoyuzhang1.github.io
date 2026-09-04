@@ -2,7 +2,7 @@
 layout: page
 description: Yaoyu Zhang is an associate professor working on the theoretical foundations of deep learning.
 home_style: true
-body_class: "site-surface home-surface"
+body_class: "site-surface academic-surface home-surface"
 ---
 
 <div class="home-page" markdown="1">

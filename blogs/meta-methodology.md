@@ -4,7 +4,7 @@ permalink: /blogs/meta-methodology.html
 title: 盲人如何摸象——探索迷雾中科学的元方法论
 description: 当无人能看见整头大象，我们如何让局部认识形成可修正、可共享的共同地图。
 blog_style: true
-body_class: "blog-surface essay-page-shell"
+body_class: "site-surface academic-surface blog-surface essay-page-shell"
 ---
 
 <div class="essay" markdown="1">

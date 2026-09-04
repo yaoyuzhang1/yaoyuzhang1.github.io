@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Blogs
 description: 关于科学、人工智能与人的长期思考。
 blog_style: true
-body_class: "blog-surface blog-index-page"
+body_class: "site-surface academic-surface blog-surface blog-index-page"
 ---
 
 <section class="blog-index" aria-labelledby="blog-index-title">
@@ -21,7 +21,7 @@ body_class: "blog-surface blog-index-page"
           <span class="blog-card__badge">新作</span>
           <span>理解与科学</span>
         </div>
-        <h2>理解——<br><em>预测的终极武器</em></h2>
+        <h2>理解——<em>预测的终极武器</em></h2>
         <p>从路线与地图的隐喻出发，讨论理解为何昂贵、何时值得，以及科学如何成为共同体的制度化理解。</p>
         <span class="blog-card__cta">阅读全文 <span aria-hidden="true">→</span></span>
       </a>
@@ -30,7 +30,7 @@ body_class: "blog-surface blog-index-page"
     <article class="blog-card">
       <a href="{{ '/blogs/supercortex.html' | relative_url }}" aria-label="阅读：大模型如何成为 Supercortex">
         <div class="blog-card__meta"><span>AI × 个体</span></div>
-        <h2>大模型如何成为<br>Supercortex</h2>
+        <h2>大模型如何成为 Supercortex</h2>
         <p>当文明尺度的能力进入每一个人的手中，个体的可能性空间会如何展开？</p>
         <span class="blog-card__cta">阅读全文 <span aria-hidden="true">→</span></span>
       </a>
