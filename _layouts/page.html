@@ -36,9 +36,11 @@
 </div><!-- /.image-wrap -->{% endif %}
 
 <div id="main" role="main"  itemprop="mainContentOfPage">
+  {% unless page.hide_author %}
   <div class="article-author-top">
     {% include author-bio.html %}
   </div>
+  {% endunless %}
   <article itemscope itemtype="http://schema.org/CreativeWork">
   {% comment %}
     <div class="headline-wrap">

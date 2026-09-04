@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 publications_style: true
 body_class: "site-surface academic-surface publications-page"
+hide_author: true
 ---
 
 # Publications
