@@ -205,6 +205,10 @@
   line-height: 1.5;
 }
 
+.home-work__item--new .home-work__meta {
+  color: var(--site-accent);
+}
+
 .home-work__item h3,
 .article-wrap .home-work__item h3 {
   margin: 0 0 0.4rem;
@@ -243,15 +247,9 @@
 
 .home-program__visual {
   margin: 0 0 1.35rem;
-  overflow: hidden;
-  background: #fff;
-  border: 1px solid var(--site-line);
-}
-
-.home-program__visual img {
-  display: block;
-  width: 100%;
-  height: auto;
+  overflow: visible;
+  background: transparent;
+  border: 0;
 }
 
 .home-program__copy {

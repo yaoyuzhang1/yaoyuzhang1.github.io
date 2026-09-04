@@ -71,6 +71,13 @@ body_class: "site-surface academic-surface home-surface"
         <p>Jiajie Zhao, Jianxing Wang, Junjie Yang, Zhiwei Bai, Yaoyu Zhang.</p>
       </div>
     </article>
+    <article class="home-work__item home-work__item--new">
+      <p class="home-work__meta">M3AS 2026</p>
+      <div>
+        <h3><a href="{{ '/file/A4/Architecture%20Induces%20Structural%20Invariant%20Manifolds%20of%20Neural%20Network%20Training%20Dynamics.pdf' | relative_url }}">Architecture Induces Structural Invariant Manifolds of Neural Network Training Dynamics</a></h3>
+        <p>Jiajie Zhao, Tao Luo, Yaoyu Zhang.</p>
+      </div>
+    </article>
   </div>
 </section>
 
@@ -81,11 +88,13 @@ body_class: "site-surface academic-surface home-surface"
   </header>
 
   <article class="home-program" aria-labelledby="program-title">
-    <figure class="home-program__visual">
-      <img src="{{ '/images/condensation.png' | relative_url }}" width="5260" height="2252" loading="lazy" decoding="async" alt="Overview of the research program on the condensation phenomenon of deep learning">
-    </figure>
     <div class="home-program__copy">
       <h3 id="program-title">Overview of Current Research Program</h3>
+    </div>
+    <figure class="home-program__visual">
+      {% include condensation-overview.html %}
+    </figure>
+    <div class="home-program__copy">
       <p>An overview of our research efforts and future directions in understanding the condensation phenomenon of deep learning. By advancing our current research program, we anticipate developing a novel framework that establishes a rigorous mathematical foundation for deep learning. See <a href="{{ '/publications/' | relative_url }}">Publications</a> for details.</p>
     </div>
   </article>

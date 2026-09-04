@@ -53,14 +53,8 @@
   text-indent: 0;
 }
 
-.publications-page .article-wrap img.floatpic {
-  box-sizing: border-box;
-  display: block;
-  float: none;
-  width: 100% !important;
-  height: auto;
+.publications-page .publication-overview {
   margin: 1.75rem 0 2.5rem;
-  border: 1px solid var(--site-line);
 }
 
 .publications-page .article-wrap ol,
@@ -116,7 +110,7 @@
     font-size: 1.2rem;
   }
 
-  .publications-page .article-wrap img.floatpic {
+  .publications-page .publication-overview {
     margin: 1.4rem 0 2rem;
   }
 
