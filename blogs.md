@@ -16,9 +16,20 @@ body_class: "site-surface academic-surface blog-surface blog-index-page"
 
   <div class="blog-grid">
     <article class="blog-card blog-card--lead">
-      <a href="{{ '/blogs/evolution-of-understanding.html' | relative_url }}" aria-label="阅读：理解——预测的终极武器">
+      <a href="{{ '/blogs/ai-optimists-guide.html' | relative_url }}" aria-label="阅读：AI时代的乐观派指南">
         <div class="blog-card__meta">
           <span class="blog-card__badge">新作</span>
+          <span>AI × 成长</span>
+        </div>
+        <h2>AI时代的<em>乐观派指南</em></h2>
+        <p>当答案越来越容易获得，如何从完成任务走向主动探索，让理解、行动与意义逐步积累。</p>
+        <span class="blog-card__cta">阅读全文 <span aria-hidden="true">→</span></span>
+      </a>
+    </article>
+
+    <article class="blog-card">
+      <a href="{{ '/blogs/evolution-of-understanding.html' | relative_url }}" aria-label="阅读：理解——预测的终极武器">
+        <div class="blog-card__meta">
           <span>理解与科学</span>
         </div>
         <h2>理解——<em>预测的终极武器</em></h2>
@@ -56,7 +67,7 @@ body_class: "site-surface academic-surface blog-surface blog-index-page"
   </div>
 
   <footer class="blog-index__footer">
-    <span>四篇文章</span>
+    <span>五篇文章</span>
     <span aria-hidden="true">·</span>
     <span>持续更新</span>
   </footer>
