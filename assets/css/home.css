@@ -408,6 +408,33 @@
   color: var(--site-accent);
 }
 
+.home-artwork {
+  width: 100%;
+  max-width: 36rem;
+  margin: 0;
+}
+
+.home-artwork > a {
+  display: block;
+  border: 0;
+}
+
+.home-artwork img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+
+.home-artwork figcaption {
+  margin-top: 1rem;
+  color: var(--site-ink);
+  font-family: var(--site-sans);
+  font-size: 1rem;
+  line-height: 1.6;
+  text-align: left;
+}
+
 @media (max-width: 600px) {
   .home-hero {
     padding: 2.4rem 0 2.25rem;

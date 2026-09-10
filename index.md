@@ -165,4 +165,16 @@ body_class: "site-surface academic-surface home-surface"
   </div>
 </section>
 
+<section id="artworks" class="home-section home-artworks" aria-labelledby="artworks-title">
+  <header class="home-section__header">
+    <h2 id="artworks-title">Artworks</h2>
+  </header>
+  <figure class="home-artwork">
+    <a href="{{ '/images/artwork-gifted-by-students.jpg' | relative_url }}" aria-label="View full-size artwork gifted to me by my students">
+      <img src="{{ '/images/artwork-gifted-by-students.jpg' | relative_url }}" width="3072" height="4096" loading="lazy" decoding="async" alt="Framed artwork with colorful handwritten ribbons and swirling patterns, gifted to me by my students.">
+    </a>
+    <figcaption><strong>Artwork Gifted to Me by My Students</strong></figcaption>
+  </figure>
+</section>
+
 </div>
