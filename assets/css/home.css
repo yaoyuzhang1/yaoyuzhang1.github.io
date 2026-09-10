@@ -435,6 +435,10 @@
   text-align: left;
 }
 
+.home-artwork figcaption::before {
+  content: none;
+}
+
 @media (max-width: 600px) {
   .home-hero {
     padding: 2.4rem 0 2.25rem;
